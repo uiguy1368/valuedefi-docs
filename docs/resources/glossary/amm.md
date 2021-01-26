@@ -1,5 +1,5 @@
 ---
-id: AutomatedMarketMaker
+id: automated-market-maker
 title: Automated market maker
 sidebar_label: Automated market maker
 ---
